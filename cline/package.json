@@ -1,0 +1,17 @@
+{
+  "name": "cline-exec",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "npx tsx src/cline-exec.ts",
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "@bufbuild/protobuf": "^2.2.5",
+    "@grpc/grpc-js": "^1.9.15",
+    "grpc-health-check": "^2.0.2"
+  },
+  "devDependencies": {
+    "esbuild": "^0.27.1"
+  }
+}

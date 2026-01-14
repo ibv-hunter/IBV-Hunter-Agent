@@ -1,0 +1,18 @@
+===========================================================
+NOTICE: Third-Party Components and Copyright Information
+===========================================================
+
+This product includes software developed by Cline Bot Inc. 
+as part of the Cline project (the "Software").
+
+The Software is licensed under the Apache License, Version 2.0 (the "License");
+you may not use the Software except in compliance with the License.
+
+You may obtain a copy of the License at:
+https://github.com/cline/cline/blob/main/LICENSE
+
+The following copyright notice applies to the included Cline Software:
+Copyright 2025 Cline Bot Inc.
+
+Portions of this software are derived from or incorporate elements of the Cline project 
+which is distributed under the Apache License, Version 2.0.
